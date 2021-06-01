@@ -19,5 +19,6 @@
 
 ### Изображение приложения:
 
+![Screenshot_1622557488](https://user-images.githubusercontent.com/77355204/120344740-86920700-c302-11eb-8c92-536ff5d77ffb.png)
 
 
